@@ -1,0 +1,16 @@
+---
+description: Module for XinaBox SW03 ambient temperature, altitude and pressure sensor
+fullname: lib.xinabox.sw03
+info:
+    chip_manufacturer: XinaBox
+    chip_name: SW03
+    name: Temperature, Altitude, Pressure Sensor
+    type: Sensor
+keywords:
+- temperature
+- altitude
+- pressure
+- xinabox
+- MPL3115A2
+title: XinaBox SW03
+...
